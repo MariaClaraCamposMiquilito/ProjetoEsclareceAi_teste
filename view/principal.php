@@ -14,22 +14,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
-    <link rel="stylesheet" href="/styles/principal.css">
-    <link rel="icon" type="image/png" href="/assets/icone.png"/>
+    <link rel="stylesheet" href="http://localhost/ProjetoEsclareceAi_teste/styles/principal.css">
+    <link rel="icon" type="image/png" href="http://localhost/ProjetoEsclareceAi_teste/assets/icone.png"/>
 </head>
 
 <body>
     <header class = "cabecalho">
 
         <div class ="logo">
-            <img src="/assets/logoFundoRemovido.png"width="300" height="300">
+            <img src="http://localhost/ProjetoEsclareceAi_teste/assets/logoFundoRemovido.png"width="300" height="300">
         </div>
 
         <div class="centro">
             <div class = "cabecalho_menu">
-                    <a class="cabecalho_menu_links" href="/principal.html"> Home</a>
-                    <a class="cabecalho_menu_links" href="/SobreNos.html"> Sobre Nós</a>
-                    <a class="botao" href="/login.html"> Login </a> 
+                    <a class="cabecalho_menu_links" href="http://localhost/ProjetoEsclareceAi_teste/principal.html"> Home</a>
+                    <a class="cabecalho_menu_links" href="http://localhost/ProjetoEsclareceAi_teste/SobreNos.html"> Sobre Nós</a>
+                    <a class="botao" href="http://localhost/ProjetoEsclareceAi_teste/login.html"> Login </a> 
             </div>
         </div>
     </header>
@@ -37,7 +37,7 @@
     <div class="menu_lateral"> 
         <input class = "checkbox" type ="checkbox" id="check">
             <label class ="check" for = "check">
-               <img class ="imagem_menu_lateral" src="/assets/risco_menu.png" width="40" height="40">
+               <img class ="imagem_menu_lateral" src="http://localhost/ProjetoEsclareceAi_teste/assets/risco_menu.png" width="40" height="40">
             </label>
         <nav class ="navegacao_menu_lateral">
             <ul class ="menu_lateral_conteudo">
@@ -67,7 +67,7 @@
 
             <div class="conteudo_pergunta">
                 <div class="perguntas_informacoes">
-                    <img src="/assets/usuario_sem_foto.png"width="120" height="70">
+                    <img src="http://localhost/ProjetoEsclareceAi_teste/assets/usuario_sem_foto.png"width="120" height="70">
                     <p class="informacoes">Matemática. Há 3 horas</p>
                     <p class="informacoes">ID 000003</p>
                 </div>
@@ -76,7 +76,7 @@
 
             <div class="conteudo_pergunta">
                 <div class="perguntas_informacoes">
-                    <img src="/assets/usuario_sem_foto.png"width="120" height="70">
+                    <img src="http://localhost/ProjetoEsclareceAi_teste/assets/usuario_sem_foto.png"width="120" height="70">
                     <p class="informacoes">Geografia. Há 1 dia</p>
                     <p class="informacoes">ID 000002</p>
                 </div>
@@ -85,7 +85,7 @@
 
             <div class="conteudo_pergunta">
                 <div class="perguntas_informacoes">
-                    <img src="/assets/usuario_sem_foto.png"width="120" height="70">
+                    <img src="http://localhost/ProjetoEsclareceAi_teste/assets/usuario_sem_foto.png"width="120" height="70">
                     <p class="informacoes">Português. Há 3 dias</p>
                     <p class="informacoes">ID 000001</p>
                 </div>
